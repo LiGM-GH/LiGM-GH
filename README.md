@@ -15,7 +15,5 @@
 
 ## Education
 
-| Time               | Grade        | Institute                                                      | Specialization                           |
-| ---                | ---          | ---                                                            | ---                                      |
-| 2021 - 2025        | Bachelor's   | Moscow Power Engineering Institute ([МЭИ]("https://mpei.ru/")) | Applied mathematics and computer science |
-| 2025 - today       | Master's     | Moscow Polytechnic Institute ([МПУ]("https://mospolytech.ru")) | Applied mathematics and computer science |
+2021 - 2025: Bachelor's, Moscow Power Engineering Institute ([МЭИ]("https://mpei.ru/")); applied mathematics and computer science
+2025 - today: Master's, Moscow Polytechnic Institute ([МПУ]("https://mospolytech.ru")); applied mathematics and computer science
