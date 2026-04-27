@@ -1,16 +1,21 @@
-## Hi there 👋
+# Lipkin, Gregory M.
 
-<!--
-**LiGM-GH/LiGM-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+- Rust
+- Python
+- Type systems, interpreters and compilers
+- IP-telephony
+- Programming in all of its forms
 
-Here are some ideas to get you started:
+## Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Email: ["lipkin.gregory@ya.ru"](mailto:lipkin.gregory@ya.ru) \
+  Phone: `+7 (915) 335 51-55` \
+  GitHub: https://github.com/LiGM-GH
+
+## Education
+
+| Time               | Grade        | Institute                                                      | Specialization                           |
+| ---                | ---          | ---                                                            | ---                                      |
+| 2021 - 2025        | Bachelor's   | Moscow Power Engineering Institute ([МЭИ]("https://mpei.ru/")) | Applied mathematics and computer science |
+| 2025 - today       | Master's     | Moscow Polytechnic Institute ([МПУ]("https://mospolytech.ru")) | Applied mathematics and computer science |
